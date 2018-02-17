@@ -4,7 +4,6 @@
   "description": "First React project",
   "main": "index.js",
   "scripts": {
-    "test": "bbproject",
     "start:dev:client": "webpack-dev-server"
 
   },
